@@ -1,0 +1,4 @@
+[submodule "aitmlouk/sdc_l10n_ma"]
+	path = aitmlouk/sdc_l10n_ma
+	url = git@github.com:aitmlouk/sdc_l10n_ma.git
+	branch = master
